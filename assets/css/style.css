@@ -2,6 +2,10 @@
   a {
     color:#777777;
   }
+  
+  a:hover {
+    color:#4aaaa5;
+  }
 
   header {
     width: 100%;
