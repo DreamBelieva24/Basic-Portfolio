@@ -112,3 +112,35 @@
       width: 75px;
       padding: 10px;
   }
+
+  #P1 {
+    background-color:blue;
+    float:left;
+    width:45%;
+    margin: 5px;
+    height: 250px;
+  }
+  #P2 {
+    background-color:red;
+    float:left;
+    width:45%;
+    margin: 5px;
+    height: 250px;
+  }
+  #P3 {
+    background-color:orange;
+    float:right;
+    width:45%;
+    margin: 5px;
+    height: 250px;
+  
+  }
+  #P4 {
+    background-color:yellow;
+    float:right;
+    width:45%;
+    margin: 5px;
+    height: 250px;
+  }
+
+}
